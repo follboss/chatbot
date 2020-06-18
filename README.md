@@ -1,3 +1,3 @@
 # chatbot
 
-creation d'un chatbot qui diagnistque le COVID-19
+Creation d'un chatbot qui diagnistque le COVID-19
