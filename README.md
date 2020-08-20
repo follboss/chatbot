@@ -1,3 +1,3 @@
 # chatbot
 
-Creation d'un chatbot qui diagnistque le COVID-19
+Chatbot POC pour diagnostiquer le COVID-19
